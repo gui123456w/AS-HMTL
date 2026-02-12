@@ -1,0 +1,57 @@
+body {
+    background-color: rgba(238, 184, 209, 0);
+    font-size: 35px;
+}
+
+ul {
+    background-color: rgb(236, 203, 223);
+    color: rgb(241, 209, 166);
+}
+
+h1 {
+    color: rgb(207, 171, 171);  
+    border-style: outset;
+    border-width: 10px;
+    border-color: black;
+}
+h2{
+   color: rgb(73, 5, 5);  
+    border-style: outset;
+    border-width: 10px;
+    border-color: black;
+}
+
+li
+
+.carro {
+    color: aqua;
+}
+
+#carro {
+    background-color: black;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.black {
+    color: black;
+}
+#img{
+  color: yellowgreen;
+}
+
+.img{
+    position: absolute;
+    top: 390px;
+    left: 450px;
+}
