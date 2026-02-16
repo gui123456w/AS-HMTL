@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(22, 21, 36);
+    font-size: 39px;
+    border-color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}
+.h{
+    background-color: violet;
+    text-align: center;
+}
+.n{
+    color: rgb(240, 238, 236);
+}
+.asas{
+    color: rgb(255, 253, 255);
+    width: 50%;
+}
+.class{
+    text-align: justify;
+    width: 18%;
+    background-color: cadetblue;
+    color: rgb(241, 240, 239);
+    text-align: left;
+    border-style: outset;
+    border-width: 10px;
+    border-color: rgb(236, 234, 234);
+}
